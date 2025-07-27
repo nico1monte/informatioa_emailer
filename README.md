@@ -9,6 +9,8 @@ This repository use the repository named "informatioa.org" for send email messag
 ## From
 This repository is from @arsenii10 and @nico1monte.
 
+### Logo
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./email_extras/readme_images/Informatioa_Emailer-README_IMAGE.png" width="700px">
