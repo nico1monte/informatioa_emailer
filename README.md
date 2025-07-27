@@ -1,4 +1,4 @@
-# informatioa_emailer
+# Emailer of Informatioa
 
 This repository is a emailer for the repository "informatioa.org" and other sites for the repository "informatioa.org"
 
