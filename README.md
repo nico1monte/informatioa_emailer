@@ -1,4 +1,4 @@
-# informatioa_emailer
+# Emailer of Informatioa
 
 This repository is a emailer for the repository "informatioa.org" and other sites for the repository "informatioa.org"
 
@@ -8,6 +8,8 @@ This repository use the repository named "informatioa.org" for send email messag
 
 ## From
 This repository is from @arsenii10 and @nico1monte.
+
+### Logo
 
 <div align="center">
   <picture>
