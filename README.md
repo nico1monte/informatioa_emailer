@@ -1,5 +1,7 @@
 # Emailer of Informatioa
 
+ENG<img alt="United States" src="./email_extras/readme_images/spanish/united_states.PNG" width="48px"> | [ESP](https://github.com/nico1monte/informatioa_emailer/blob/dev/README.es_ES.md)<img alt="Espana" src="./email_extras/readme_images/spanish/espana.PNG">
+
 This repository is a emailer for the repository "informatioa.org" and other sites for the repository "informatioa.org"
 
 ## Using
