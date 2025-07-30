@@ -1,6 +1,6 @@
 # Emailer de Informatioa
 
-ESP | [ENG](https://github.com/nico1monte/informatioa_emailer/blob/README.md)
+ESP | [ENG](https://github.com/nico1monte/informatioa_emailer/blob/main/README.md)
 
 Este repositorio es un correo electrónico para el repositorio "informatioa.org" y otros sitios del repositorio "informatioa.org".
 
