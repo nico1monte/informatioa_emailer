@@ -1,6 +1,6 @@
 # Emailer de Informatioa
 
-ESP<img alt="España" src="./email_extras/readme_images/spanish/espana.PNG" width="48px"> | [ENG](https://github.com/nico1monte/informatioa_emailer/blob/README.md)<img alt="Estados Unidos" src="./email_extras/readme_images/spanish/united_states.png" width="48px">
+ESP | [ENG](https://github.com/nico1monte/informatioa_emailer/blob/README.md)
 
 Este repositorio es un correo electrónico para el repositorio "informatioa.org" y otros sitios del repositorio "informatioa.org".
 
