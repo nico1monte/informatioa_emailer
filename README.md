@@ -1,6 +1,6 @@
 # Emailer of Informatioa
 
-ENG | [ESP](https://github.com/nico1monte/informatioa_emailer/blob/dev/README.es_ES.md)
+ENG | [ESP](https://github.com/nico1monte/informatioa_emailer/blob/README.es_ES.md)
 
 This repository is a emailer for the repository "informatioa.org" and other sites for the repository "informatioa.org"
 
